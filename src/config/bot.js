@@ -7,7 +7,7 @@ export const botConfig = {
   // =========================
   // `status` options:
   // - "online"    = green dot
-  // - "idle"      = yellow moon
+  // - "idle"      = blue moon
   // - "dnd"       = red do-not-disturb
   // - "invisible" = appears offline
   presence: {
@@ -25,7 +25,7 @@ export const botConfig = {
     activities: [
       {
         // Text users will see (example: "Playing /help | Titan Bot").
-        name: "Made with ❤️",
+        name: "skibidi fiutek 🍆🍑💦",
         // Activity type number (0 = Playing).
         type: 0, 
       },
